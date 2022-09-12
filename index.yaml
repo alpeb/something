@@ -3,7 +3,18 @@ entries:
   something:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-12T14:34:12.095722524-05:00"
+    created: "2022-09-12T14:42:14.277658583-05:00"
+    deprecated: true
+    description: 'DEPRECATED: A Helm chart for Kubernetes'
+    digest: 9f03facb26038ce798d05feeb3c48e0f42cf6ec442d9914b0a6c545a17241d9e
+    name: something
+    type: application
+    urls:
+    - something-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-12T14:42:14.277424326-05:00"
     description: A Helm chart for Kubernetes
     digest: 983d769f70fd08f8e55dcbca5a90376449215e3b8be20a178e3898c0faec0a86
     name: something
@@ -11,4 +22,4 @@ entries:
     urls:
     - something-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-12T14:34:12.095332811-05:00"
+generated: "2022-09-12T14:42:14.27710512-05:00"
